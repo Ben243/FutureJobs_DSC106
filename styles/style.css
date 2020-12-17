@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+body {
+    font-family: 'Gill Sans', sans-serif;
+    padding: 15px;
+
+}
+h1 {
+    font-family: 'Gill Sans', sans-serif;
+}
+h3 {
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif;
+}
+figcaption, caption {
+    text-align: center;
+}
+
+/* section, figure {
+
+} */
+#industry_box {
+    width:22em; 
+}
+option {
+    font-weight: bold;
+}
